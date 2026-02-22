@@ -1,0 +1,26 @@
+# dependencies
+node_modules
+
+# bun
+bun.lockb
+.bun
+.bun-cache
+
+# vcs
+.git
+.gitignore
+
+# logs / env
+*.log
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+.idea
+.vscode
+
+# misc
+coverage
+dist
+build
